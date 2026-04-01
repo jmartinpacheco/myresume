@@ -1,59 +1,50 @@
 {
 	"es":{
-		"description":"Hola, soy desarrollador con experiencia en crear soluciones móviles, web y experiencias RA. Con especial interés en el arte y programación de videojuegos 2D.",
+		"title":"Ingeniero en Computación | Desarrollador Full Stack & Mobile",
+		"description":" con especialización en soluciones móviles, web y Realidad Aumentada (RA). Con un enfoque técnico robusto y visión creativa, me especializo en el desarrollo de sistemas multiplataforma de alto rendimiento que optimizan la interacción del usuario y la eficiencia operativa.",
 		"experience":[
 			{
-				"name":"Independiente (Ene22 - Actualmente)",
-				"description":"para complementos de funcionalidad y distribución en tienda.",
-				"activities":"Proyectos web, aplicaciones móviles y RA "
+				"name":"Spray Studio (Ene22 - Actualmente)",
+				"description":"entregando soluciones funcionales y gestionando su distribución en tiendas oficiales.",
+				"activities":"Desarrollo proyectos integrales (web, móviles y RA), "
 			},
 			{
 				"name":"Grupo Herdez (Jun20 - Ene22)",
-				"description":"de uso interno para difusión de ventas y promociones dentro de la empresa.",
-				"activities":"Desarrollo de apps y sistemas web "
+				"description":"para la optimización de los procesos de difusión de ventas y promociones, reduciendo el tiempo de ejecución.",
+				"activities":"Desarrollé una plataforma interna de uso diario "
 			},
 			{
 				"name":"Spray Studio (Oct18 - Jun20)",
-				"description":"con distribución interna y pública de uso informativo y comercial.",
-				"activities":"Proyectos web, aplicaciones móviles y RA "
+				"description":"de uso comercial y garantizando una experiencia de uso intuitiva.",
+				"activities":"Diseñé y desplegué soluciones tecnológicas multiplataforma (web, móvil, RA) "
 			},
 			{
 				"name":"Fundación Carlos Slim (Jul16 - Jul18)",
-				"description":"para alojamiento de contenido de aprendizaje en recursos interactivos.",
-				"activities":"Desarrollo backend de nueva plataforma "
-			},
-			{
-				"name":"Independiente (Mar15 - Abr15)",
-				"description":"para el consurso El reto WW, donde se alcanzó el segundo lugar.",
-				"activities":"Desarrollo y diseño de videojuego NutriRun "
+				"description":", habilitando la entrega fluida de recursos interactivos para más estudiantes.",
+				"activities":"Construí y gestioné la arquitectura backend de una nueva plataforma de aprendizaje"
 			}
 		],
 		"jobs":[
 			{
-				"name":"",
-				"title":"Programador independiente",
+				"name":"Spray Studio",
+				"title":"Programador senior",
 				"time":"Enero 2022 - Actualmente",
 				"activities":[
-					"Implementación y administración de aplicaciones personalizadas",
-	                "Desarrollo de aplicaciones con acceso a tienda",
-	                "Reestructura de aplicaciones a sistemas más actualizados",
-	                "Mantenimiento de plataforma web de uso administrativo",
-	                "Comunicación entre sistemas mediante servicios de terceros",
-	                "Desarrollo de sistemas en realidad aumentada de forma nativa y web"
+					"Desarrollo End-to-End: Implementación y administración de aplicaciones personalizadas con arquitectura escalable y despliegue exitoso en tiendas oficiales (App Store/Play Store).",
+	                "Modernización de sistemas: Reestructuración de plataformas legacy a tecnologías actuales, mejorando el rendimiento y la mantenibilidad.",
+	                "Innovación en RA: Desarrollo nativo de experiencias en Realidad Aumentada para soluciones web y móviles.",
+	                "Tecnologías: Unity, ARKit/ARCore, React Native, MAUI, Node.js, AWS, APIs de terceros."
 				]
 			},
 			{
 				"name":"Transformación digital Grupo Herdez",
-				"title":"Programador móvil",
+				"title":"Programador móvil y .NET",
 				"time":"Junio 2020 – Enero 2022",
 				"activities":[
-					"Levantamiento de necesidades para desarrollo de nueva aplicación",
-	                "Propuesta de diseño UI en app y sistemas web",
-	                "Distribución de aplicaciones con acceso interno",
-	                "Comunicación de app con el sistema general del grupo",
-	                "Desarrollo de aplicaciones móviles para la consulta visual de las ventas en marcas de retail",
-	                "Optimización de plataformas web para la gestión de promociones, inventario, ventas, actividades de tiendas, etc",
-	                "Programación de nuevas funcionalidades para app de escritorio en el punto de venta de las tiendas físicas"
+					"Optimización retail: Lideré la mejora de plataformas para gestión de promociones, inventarios y ventas, impactando directamente en la operación de tiendas físicas.",
+	                "Soluciones visuales: Desarrollo de apps móviles para consulta de ventas en tiempo real para marcas de retail del grupo.",
+	                "Integración de sistemas: Comunicación fluida entre apps móviles y el ecosistema general del grupo mediante arquitecturas de servicios.",
+	                "Tecnologías: Xamarin Forms, JavaScript, jQuery, SQL Server, .NET, Adobe XD (UX/UI)."
 				]
 			},
 			{
@@ -61,11 +52,10 @@
 				"title":"Programador",
 				"time":"Octubre 2018 – Junio 2020",
 				"activities":[
-					"Mejoras en proyectos para sitios web desarrollados en distintos frameworks de php",
-	                "Desarrollo de nuevas aplicaciones híbridas con acceso a tienda, así como de forma privada",
-	                "Mejoras a aplicaciones existentes con nuevas funcionalidades",
-	                "Desarrollo en aplicaciones con realidad aumentada para presentación de productos comerciales",
-	                "Diseño de modelos para base de datos y mejoras a consultas complejas en proyectos web"
+					"Desarrollo híbrido y RA: Creación de aplicaciones híbridas para distribución comercial y privada, incluyendo módulos de Realidad Aumentada para exhibición de productos.",
+	                "Ingeniería de datos: Diseño de modelos de bases de datos y optimización de consultas complejas para sitios web de alto tráfico.",
+	                "Mantenimiento evolutivo: Actualización de proyectos en diversos frameworks de PHP, integrando nuevas funcionalidades y mejorando la seguridad.",
+	                "Tecnologías: PHP (Laravel/Symfony), MySQL, Unity, Xamarin Forms, Vuforia."
 				]
 			},
 			{
@@ -73,20 +63,16 @@
 				"title":"Programador web",
 				"time":"Julio 2016 - Julio 2018",
 				"activities":[
-					"Desarrollo de nueva plataforma pruebat.org",
-	                "Funcionalidad del sitio para alojamiento de contenido de aprendizaje y juegos interactivos",
-	                "Desarrollo de panel de administración de recursos multimedia",
-	                "Integración del funcionamiento de maquetas front end",
-	                "Optimización de código para ahorro de recursos y tiempo",
-	                "Desarrollo de integraciones entre diferentes sistemas mediante el uso de servicios rest",
-	                "Reestructura del diseño de modelos para base de datos",
-	                "Levantamiento de necesidades del cliente para documentar y desarrollar el sistema"
+					"Plataforma educativa (pruebat.org): Desarrollo y mantenimiento de la plataforma, enfocándome en la funcionalidad de juegos interactivos y alojamiento de contenido multimedia.",
+	                "Arquitectura de software: Integración de maquetas Front-end con lógica de Back-end mediante servicios REST y reestructuración de bases de datos.",
+	                "Eficiencia de código: Optimización de procesos para el ahorro de recursos de servidor y reducción de tiempos de carga.",
+	                "Tecnologías: JavaScript, jQuery, PHP (CodeIgniter), MySQL, REST API, HTML5/CSS3."
 				]
 			}
 		],
 		"projects":[
 			{
-				"name":"Maybelline NY - Web AR",
+				"name":"Maybelline NY - RA web",
 				"image":"projects/maybelline.png",
 				"icon":"tryout_gray.svg"
 			},
@@ -96,7 +82,7 @@
 				"icon":""
 			},
 			{
-				"name":"Urban Attack - 2D Video game",
+				"name":"Urban Attack - Videojuego 2D",
 				"image":"projects/urban.png",
 				"icon":"game_dark.svg"
 			},
@@ -106,58 +92,52 @@
 				"icon":""
 			},
 			{
-				"name":"Sistema CRS - Web platform",
+				"name":"Sistema CRS - Plataforma web",
 				"image":"projects/boliviacrs.png",
 				"icon":""
 			},
 			{
-				"name":"PruébaT - Web platform",
+				"name":"PruébaT - Plataforma web",
 				"image":"projects/pruebat.png",
 				"icon":""
 			}
 		]
 		},
 	"en":{
-		"description":"Hi, I am developer with experience in create mobile, web solutions and AR experiences. Special and particular interest in 2D game art and programming.",
+		"title":"Computer Engineer | Full Stack & Mobile Developer",
+		"description":" with specialization in mobile, web and Augmented Reality (AR) solutions. With a robust technical focus and creative vision, I specialize in developing multi-platform systems of high performance that optimize user interaction and operational efficiency.",
 		"experience":[
 			{
-				"name":"Indie (Jan22 - To date)",
-				"description":"for improving functionality and distribution.",
-				"activities":"Web projects, mobile and AR applications "
+				"name":"Spray Studio (Jan22 - To date)",
+				"description":"delivering functional solutions and managing their distribution in official stores.",
+				"activities":"Development of integral projects (web, mobile and AR), "
 			},
 			{
 				"name":"Grupo Herdez (Jun20 - Ene22)",
-				"description":"of in-home use to sales diffusion and promotions inside company.",
-				"activities":"Development of apps and web system "
+				"description":"optimizing the processes of sales diffusion and promotions, reducing execution time.",
+				"activities":"Development of an internal platform for daily use "
 			},
 			{
 				"name":"Spray Studio (Oct18 - Jun20)",
-				"description":"of informative and comertial use for in-store and private distribution.",
-				"activities":"Web projects, mobile and AR applications "
+				"description":"for commercial and private use, ensuring an intuitive use experience.",
+				"activities":"Design and deployment of multi-platform technological solutions (web, mobile, AR) "
 			},
 			{
 				"name":"Fundación Carlos Slim (Jul16 - Jul18)",
-				"description":"for hosting learning content and interactive resources.",
-				"activities":"Development backend in new platform "
-			},
-			{
-				"name":"Indie (Mar15 - Apr15)",
-				"description":"for El reto WW contest, where we achieved the second place.",
-				"activities":"Development and design of NutriRun video game "
+				"description":"enabling the fluid delivery of interactive resources for more students.",
+				"activities":"Development of the backend architecture of a new learning platform "
 			}
 		],
 		"jobs":[
 			{
-				"name":"",
-				"title":"Freelance developer",
+				"name":"Spray Studio",
+				"title":"Senior developer",
 				"time":"January 2022 - To date",
 				"activities":[
-					"Need assessment for the implementation and management of custom applications",
-	                "Development of mobile apps for in-store and private distribution",
-	                "Restructuring of apps to more up-to-date systems",
-	                "Management of web platforms or administrative use",
-	                "Distribution of application with Augmented Reality for product diffusion",
-	                "Programming of applications and new functionalities of exiting systems"
+					"End-to-End development: Implementation and management of custom applications with scalable architecture and successful deployment in official stores (App Store/Play Store).",
+	                "System modernization: Restructuring of legacy platforms to current technologies, improving performance and maintainability.",
+	                "Innovation in AR: Native development of Augmented Reality experiences for web and mobile solutions.",
+	                "Technologies: Unity, ARKit/ARCore, React Native, MAUI, Node.js, AWS, Third-party APIs."
 				]
 			},
 			{
@@ -165,13 +145,10 @@
 				"title":"Mobile and .NET developer",
 				"time":"June 2020 – January 2022",
 				"activities":[
-					"Survey of customer needs to develop of new app",
-	                "Proposal for UI design app and web system",
-	                "Development of app with in-home distribution",
-	                "I communicated the app with the general system of the group",
-	                "Development of apps for visual consultation of sales in retail brands",
-	                "Functionality of different web platforms for the management of promotions, inventory, sales, store activities, etc. of the group’s point of sale",
-	                "Programming of new functionalities for desktop app in the point of sale of physical stores"
+					"Retail optimization: Leading the improvement of platforms for promotion management, inventory, sales, store activities, etc., directly impacting the operation of physical stores.",
+	                "Visual solutions: Development of mobile apps for real-time sales consultation for retail brands of the group.",
+	                "System integration: Fluid communication between mobile apps and the overall group ecosystem through service architectures.",
+	                "Technologies: Xamarin Forms, JavaScript, jQuery, SQL Server, .NET, Adobe XD (UX/UI)."
 				]
 			},
 			{
@@ -179,11 +156,10 @@
 				"title":"Developer",
 				"time":"October 2018 – June 2020",
 				"activities":[
-					"I improved projects on distinct php frameworks",
-	                "Development of new hybrid apps for in-store and private distribution",
-	                "Programming of applications and new functionalities of exiting systems",
-	                "Development of Augmented Reality application for commercial product presentation",
-	                "Designing of database model and improving of complex querys on web projects"
+					"Hybrid and AR development: Creation of hybrid apps for commercial and private distribution, including augmented reality modules for product exhibition.",
+	                "Data engineering: Design of database models and optimization of complex queries for high-traffic web projects.",
+	                "Evolutionary maintenance: Updating projects in various PHP frameworks, integrating new features and improving security.",
+	                "Technologies: PHP (Laravel/Symfony), MySQL, Unity, Xamarin Forms, Vuforia."
 				]
 			},
 			{
@@ -191,14 +167,10 @@
 				"title":"Web developer",
 				"time":"July 2016 - July 2018",
 				"activities":[
-					"I developed the new platform pruebat.org",
-					"Worked of the functionality of the site for hosting learning content and interactive resources",
-	                "Development of multimedia resources administration panel",
-	                "Integration of the functionality of frontend templates",
-	                "Optimization of code to save resources and time",
-	                "Development of services between different systems with api rest",
-	                "Redesigning of the database model",
-	                "Survey of customer needs to document and develop the system"
+					"Educational platform (pruebat.org): Development and maintenance of the platform, focusing on interactive games and multimedia content hosting.",
+					"Software architecture: Integration of Front-end maquettes with Back-end logic through REST services and restructuring of database models.",
+	                "Code efficiency: Optimization of processes for server resource savings and reduction of loading times.",
+	                "Technologies: JavaScript, jQuery, PHP (CodeIgniter), MySQL, REST API, HTML5/CSS3."
 				]
 			}
 		],

@@ -1,3 +1,4 @@
+var _json_data;
 
 function toggle_theme() {
     var storedTheme = localStorage.getItem('theme') || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
@@ -41,6 +42,9 @@ function toggle_language() {
 }
 
 function initial_profile(){
+    _json_data = JSON.parse(profile.replace(/&quot;/g,'"'));
+    console.info(_json_data);
+
     $(".tab-jmp").click(function() {
         $('.tab-jmp').removeClass('activeTab');
         $(this).addClass('activeTab');
@@ -52,11 +56,9 @@ function initial_profile(){
 }
 
 function on_reset_lang(targetLang){
-    $.getJSON("json/profile.json", function(data) {
-        //description
-        $('.bio').text(data[targetLang].description);
-    });
-    
+    //description
+    $('.bio').html('<strong>' + _json_data[targetLang].title + '</strong>' + _json_data[targetLang].description);
+
     //tabs
     $(".tab-jmp").each(function() {
         var tab = $(this);
@@ -75,4 +77,8 @@ function on_reset_lang(targetLang){
     $('.overview').find('.featuredContentBlock').addClass('d-none');
     $('.overview').find('.ftDescription').addClass('d-none');
     $('.overview').find("." + String(targetLang)).removeClass('d-none');
+
+    $('.projects').find('.libraryGrid').addClass('d-none');
+    $('.projects').find('.ftDescription').addClass('d-none');
+    $('.projects').find("." + String(targetLang)).removeClass('d-none');
 }
